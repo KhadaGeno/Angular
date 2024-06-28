@@ -8,4 +8,4 @@
 - Página de compra de componentes
   
 • Proyecto editable de StackBlitz:
-- URL:
+- URL: https://stackblitz.com/~/github.com/KhadaGeno/Angular
