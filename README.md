@@ -9,3 +9,6 @@
   
 • Proyecto editable de StackBlitz:
 - URL: https://stackblitz.com/~/github.com/KhadaGeno/Angular
+
+• Aclaración
+Hace falta hacer el comando npm install en stackblitz para que funcione. Por el espacio que ocupa la instalación, al intentar hacer un commit de los cambios StackBlitz me dejaba de funcionar
